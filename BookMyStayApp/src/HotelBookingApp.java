@@ -49,7 +49,7 @@ public class HotelBookingApp {
  *
  * @version 5.0
  */
-class Reservation {
+public class Reservation {
 
     private String guestName;
     private String requestedRoomType;
